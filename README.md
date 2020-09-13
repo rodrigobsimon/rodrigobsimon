@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**rodrigobsimon/rodrigobsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Rodrigo 👋
 
-Here are some ideas to get you started:
+:wink:Rookie developer passionate about problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing right now :zap:
+
+:computer:Currently studying Information Systems [FeMASS](http://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao)
+
+:page_facing_up:Currently learning the art of writing clean code.
+
+### Reach me :speech_balloon:
+
+:briefcase:[LinkedIn](https://www.linkedin.com/in/rodrigobsimon/)
+
