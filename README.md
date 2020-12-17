@@ -7,7 +7,7 @@
 
 :arrow_up: In the path of software craftsmanship.
 
-:heavy_check_mark: I believe that we will only be great if we can make others great.
+:heavy_check_mark: Believe that we will only be great if we can make others great.
 
 ### What I'm doing right now :zap:
 
