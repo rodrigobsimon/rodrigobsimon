@@ -1,8 +1,6 @@
 
 ### Hi there, I'm Rodrigo 👋
 
-:wink: Passionate about problem solving.
-
 :page_facing_up: Clean code follower.
 
 :arrow_up: In the path of software craftsmanship.
