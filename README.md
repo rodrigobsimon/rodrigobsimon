@@ -1,16 +1,12 @@
 
-### Hi there, I'm Rodrigo 👋
+### Olá, sou o Rodrigo 👋
 
-:page_facing_up: Clean code follower.
+:computer: Desenvolvedor de Sistemas
 
-:arrow_up: In the path of software craftsmanship.
+### O que estou fazendo :zap:
 
-:heavy_check_mark: Believe that we will only be great if we can make others great.
+:book: Atualmente cursando Sistemas de Informação na [FeMASS](http://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao)
 
-### What I'm doing right now :zap:
+### Chegue até mim :speech_balloon:
 
-:computer:Currently studying Information Systems [FeMASS](http://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao)
-
-### Reach me :speech_balloon:
-
-:briefcase:[LinkedIn](https://www.linkedin.com/in/rodrigobsimon/)
+:briefcase: [LinkedIn](https://www.linkedin.com/in/rodrigobsimon/)
