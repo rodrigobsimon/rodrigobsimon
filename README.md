@@ -1,13 +1,11 @@
 
 ### Hi everyone, I'm Rodrigo 👋
 
-A __Developer__, A __Junior Entrepreneur__, An __Open Source Contributor__ and A __Competitive Programmer__ a.k.a _jm4l__.
+A __Developer__, An __Open Source Contributor__ and A __Problem Solver__.
 
 ### Reach Me :speech_balloon:
 
 💼 [LinkedIn](https://www.linkedin.com/in/rodrigobsimon/)
-
-👊 [Code Wars](https://www.codewars.com/users/jm4l_)
 
 ### What I'm doing ⚡
 
