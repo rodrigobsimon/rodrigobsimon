@@ -1,11 +1,13 @@
 
-### Hi everyone, I'm Rodrigo 👋
+### Hello World, I'm Rodrigo 👋
 
-A __Developer__, An __Open Source Contributor__ and A __Problem Solver__.
+I solve problems and create stuff.
 
 ### Reach Me :speech_balloon:
 
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigobsimon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rodrigobsimon/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/rodrigobsimon?hr_r=1)
 
 ### What I'm doing ⚡
 
